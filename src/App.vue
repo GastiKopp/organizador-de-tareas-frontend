@@ -21,7 +21,7 @@
       <div>
         © 2025 - Trabajo Práctico Final PNT2 y TP2 - 🗂️
       </div>
-      <small>Hecho por Gastón Kopplin Alva, Federico Cotler y Francisco Nicolini</small>
+      <small>Hecho por Gastón Kopplin Alva</small>
     </footer>
   </div>
 </template>

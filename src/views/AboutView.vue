@@ -40,14 +40,6 @@
           Gastón Kopplin Alva — 
           <a href="https://github.com/GastiKopp" target="_blank"><i class="bi bi-github"></i> GitHub</a>
         </li>
-        <li>
-          Federico Cotler — 
-          <a href="https://github.com/fedecotler" target="_blank"><i class="bi bi-github"></i> GitHub</a>
-        </li>
-        <li>
-          Francisco Nicolini — 
-          <a href="https://github.com/nicolinif" target="_blank"><i class="bi bi-github"></i> GitHub</a>
-        </li>
       </ul>
     </div>
   </div>
