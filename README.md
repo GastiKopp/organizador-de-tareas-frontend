@@ -15,7 +15,7 @@ Este es el frontend del proyecto final de Programación en Nuevas Tecnologías 2
 
 1. Cloná el repositorio:
 
-git clone https://github.com/fedecotler/proyecto-final-pnt2.git
+git clone https://github.com/GastiKopp/organizador-de-tareas-frontend.git
 
 2. Entrá al directorio del proyecto:
 
@@ -53,10 +53,6 @@ Accedé a la app desde: http://localhost:5173
 ## 👥 Integrantes
 
 -Gastón Kopplin Alva
-
--Federico Cotler
-
--Francisco Nicolini
 
 ## 📁 Estructura de carpetas
 src/
