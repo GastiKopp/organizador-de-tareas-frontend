@@ -15,7 +15,7 @@ Este es el frontend del proyecto final de Programación en Nuevas Tecnologías 2
 
 1. Cloná el repositorio:
 
-git clone https://github.com/GastiKopp/organizador-de-tareas-frontend.git
+git clone https://github.com/GastiKopp/Organizador-de-Tareas-Frontend.git
 
 2. Entrá al directorio del proyecto:
 
@@ -70,4 +70,4 @@ Este frontend está conectado a un backend desarrollado con Node.js, Express y S
 Las tareas y categorías se almacenan en una base de datos MySQL a través del backend.
 
 👉 Podés encontrar el repositorio del backend en:
-https://github.com/GastiKopp/backend-proyecto-final-tp2.git
+https://github.com/GastiKopp/Organizador-de-Tareas-Backend
